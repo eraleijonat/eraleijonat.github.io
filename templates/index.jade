@@ -1,7 +1,7 @@
 - function menuClass(title) { return page.title === title ? "active" : "inactive"; }
 
 doctype html
-html(lang="en")
+html(lang="fi")
   head
     meta(charset="utf-8")
     link(rel="stylesheet" href="css/style.css")
@@ -30,13 +30,15 @@ html(lang="en")
       img(src="header.jpg")
     article
       != page.html
+      - if (page.title === "join")
+        include joinform
     footer
       #left
         span Aina valmiina!
       #right
         img#wosmwagggs(src="wosmwagggs100.png" alt="Partiolaisten maailmanjärjestöt WOSM ja WAGGGS")
     
-    // Keep Heroku emailer awake.
+    // Keep Heroku emailer awake by sending ping on all page loads.
     script(type="text/javascript").
       var xhr = new XMLHttpRequest();
       xhr.open("POST", "http://eraleijonat-emailer.herokuapp.com/ping", true);

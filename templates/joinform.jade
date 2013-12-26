@@ -1,0 +1,95 @@
+form
+  h3 Hakijan tiedot
+  
+  label(for='firstNames') Etunimet
+  input#firstNames(type='text', placeholder='Etunimet')
+
+  label(for='lastName') Sukunimi
+  input#lastName(type='text', placeholder='Sukunimi')
+
+  label(for='address') Osoite
+  textarea#address(rows='4', placeholder='Postiosoite')
+
+  label(for='birth-date') Syntymäaika
+
+  select#birth-date
+    option(value='1') 1.
+    option(value='2') 2.
+    option(value='3') 3.
+    option(value='4') 4.
+    option(value='5') 5.
+    option(value='6') 6.
+    option(value='7') 7.
+    option(value='8') 8.
+    option(value='9') 9.
+    option(value='10') 10.
+    option(value='11') 11.
+    option(value='12') 12.
+    option(value='13') 13.
+    option(value='14') 14.
+    option(value='15') 15.
+    option(value='16') 16.
+    option(value='17') 17.
+    option(value='18') 18.
+    option(value='19') 19.
+    option(value='20') 20.
+    option(value='21') 21.
+    option(value='22') 22.
+    option(value='23') 23.
+    option(value='24') 24.
+    option(value='25') 25.
+    option(value='26') 26.
+    option(value='27') 27.
+    option(value='28') 28.
+    option(value='29') 29.
+    option(value='30') 30.
+    option(value='31') 31.
+
+  select#birth-month
+    option(value='1') tammikuuta
+    option(value='2') helmikuuta
+    option(value='3') maaliskuuta
+    option(value='4') huhtikuuta
+    option(value='5') toukokuuta
+    option(value='6') kesäkuuta
+    option(value='7') heinäkuuta
+    option(value='8') elokuuta
+    option(value='9') syyskuuta
+    option(value='10') lokakuuta
+    option(value='11') marraskuuta
+    option(value='12') joulukuuta
+  
+  input#birth-year(placeholder='Vuosi')
+  
+  label(for='phone') Puhelinnumero
+  input#phone(type='text', placeholder='Puhelinnumero')
+  
+  label(for='email') Sähköpostiosoite
+  input#email(type='text', placeholder='Sähköposti')
+  
+  h3 Huoltajan tiedot
+  
+  p Täytettävä, jos hakija on alle 18-vuotias.
+  
+  label(for='huoltaja-name') Huoltajan nimi
+  input#huoltaja-name(type='text', placeholder='Huoltajan nimi')
+  
+  label(for='huoltaja-phone') Huoltajan puhelinnumero
+  input#huoltaja-phone(type='text', placeholder='Huoltajan puhelinnumero')
+  
+  label(for='huoltaja-email') Huoltajan sähköpostiosoite
+  input#huoltaja-email(type='text', placeholder='Huoltajan sähköposti')
+  
+  h3 Lisätiedot
+  
+  textarea#details(placeholder='Vapaa lisätietokenttä. Onko kysyttävää, haluatko meidän ottavan yhteyttä, tms.?')
+  
+  button#submit(type='button') Lähetä hakemus
+p#submit-result
+
+h3 Rekisteriseloste
+
+:markdown
+  Syöttämäsi tiedot tallennetaan Suomen Partiolaisten sähköiseen Polku-jäsenrekisteriin. Henkilötietolain 10&nbsp;§:n mukainen [rekisteriseloste on saatavilla SP:n sivuilla](http://toiminta.partio.fi/sites/partio.fi/files/polku_rekisteriseloste.pdf).
+
+include joinscript

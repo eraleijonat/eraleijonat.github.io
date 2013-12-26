@@ -1,0 +1,51 @@
+script
+  :coffee
+    $button = document.getElementById("submit")
+    $result = document.getElementById("submit-result")
+
+    # ei mitään jQuerya :) 
+    value = (id) ->
+      document.getElementById(id).value
+
+    showResult = (id) ->
+      $result.style.display = "block"
+
+    send = ->
+      url = "http://eraleijonat-emailer.herokuapp.com/new-member"
+      params =
+        "firstNames":     value("firstNames")
+        "lastName":       value("lastName")
+        "address":        value("address")
+        "dob":            value("birth-date") + "." + value("birth-month") + "." + value("birth-year")
+        "phone":          value("phone")
+        "email":          value("email")
+        "huoltaja-name":  value("huoltaja-name")
+        "huoltaja-phone": value("huoltaja-phone")
+        "huoltaja-email": value("huoltaja-email")
+        "details":        value("details")
+
+      fail = (result) ->
+        $result.innerHTML = result.fail
+        showResult()
+
+      succeed = (result) ->
+        $result.innerHTML = result.success
+        showResult()
+        $button.disabled = "true"
+
+      xhr = new XMLHttpRequest()
+      xhr.open "POST", url, true
+      xhr.setRequestHeader "Content-type", "application/json; charset=utf-8"
+      xhr.onreadystatechange = ->
+        if xhr.readyState is 4
+          result = JSON.parse(xhr.responseText)
+          if xhr.status is 200 and result.success
+            succeed result
+          else
+            fail result
+
+      xhr.send JSON.stringify(params)
+
+    document.getElementById("submit").onclick = ->
+      $result.innerHTML = "Hakemusta lähetetään..."
+      send()
