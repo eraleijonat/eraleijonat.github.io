@@ -2,5 +2,6 @@
   "locals": {
     "title":  "Helsingin Erä-Leijonat ry",
     "slogan": "Pukinmäkeläistä partiotoimintaa vuodesta 1993."
-  }
+  },
+  "output": "./"
 }
