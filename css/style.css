@@ -14,8 +14,12 @@ p {
 }
 
 header {
-  background: #456 url("fdl-small.png") no-repeat 95% 50%;
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #456), color-stop(100%, #334));
   padding: 2em 3em 1em;
+}
+
+header #right {
+  float: right;
 }
 
 section#header {
@@ -83,6 +87,9 @@ nav ul li {
   padding-bottom: 1em;
   border-right: 1px solid #005;
   box-shadow: 3px 0 5px #445;
+
+  width: 15%;
+  min-width: 160px;
 }
 
 nav ul li.active a {
