@@ -1,0 +1,193 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #eee;
+  font-size: 18px;
+}
+
+p {
+  font-family: "Karla", helvetica;
+  line-height: 2em;
+}
+
+header {
+  background: #456;
+  padding: 2em 3em 1em;
+}
+
+section#header {
+  background: #333;
+  text-align: center;
+}
+
+section#header img {
+  border: 1px solid #000;
+  width: 100%;
+}
+
+footer {
+  font-family: "Karla", helvetica;
+  padding: 1.5em 3em 2em;
+  background: #333;
+  color: #aaa;
+  min-height: 50px;
+}
+
+footer #left {
+  width: 50%;
+  float: left;
+}
+
+footer #right {
+  width: 50%;
+  float: left;
+  text-align: right;
+}
+
+article {
+  margin: 0 auto;
+  padding: 2em 0;
+  width: 70%;
+}
+
+#alt {
+  color: #ddd;
+  margin: 1em 0 0;
+}
+
+#logo {
+  float: left;
+  width: 100px;
+  margin: 0 1.5em 1em 0;
+}
+
+nav {
+  background: #269;
+  padding-left: 3em;
+  max-width: 100%;
+  border-top: 1px solid #444;
+}
+
+nav ul li {
+  display: inline-block;
+  list-style-type: none;
+  padding: 1em;
+  padding-bottom: 1em;
+  border-right: 1px solid #005;
+  box-shadow: 3px 0 5px #445;
+}
+
+nav ul li.active a {
+  border-bottom: 2px solid #ccf;
+  color: #fff;
+}
+
+a {
+  color: #269;
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: #00f;
+}
+
+nav a {
+  color: #ccc;
+  margin-right: 2em;
+  text-decoration: none;
+  font-size: 1.5em;
+  text-shadow: 1px 1px #000;
+}
+
+nav a:hover,
+nav a:focus,
+nav a:active {
+  color: #fff;
+}
+
+header, nav, h1, h2, h3, h4, form {
+  font-family: "Abel", sans-serif;
+}
+
+h1 {
+  color: #fff;
+  text-shadow: 2px 2px #000;
+  text-transform: uppercase;
+}
+
+p {
+  margin-bottom: 1.5em;
+}
+
+article h2 {
+  color: #333;
+  font-size: 1.8em;
+  margin-bottom: 1em;
+  border-bottom: 1px solid #ccc;
+}
+
+article h3 {
+  font-size: 1.2em;
+  margin: 2em 0 1em 0;
+  text-transform: uppercase;
+}
+
+article img {
+  max-width: 200px;
+  float: right;
+  border: 1px solid #aaa;
+  border-radius: 10px;
+  margin: 0 0 1em 2em;
+}
+
+iframe {
+  margin-bottom: 1.5em;
+}
+
+#submit-result {
+  display: none;
+}
+
+form {
+  max-width: 500px;
+}
+
+form label {
+  display: block;
+}
+
+form input,
+form textarea {
+  font-family: "Karla";
+  width: 100%;
+}
+
+form input#birth-year {
+  display: inline;
+  width: 3em;
+}
+
+form input,
+form select,
+form textarea {
+  background: #fff;
+  border: 1px solid #ccc;
+
+  margin: .5em 0 1em;
+  padding: 1em;
+  font-size: 1em;
+}
+
+form button {
+  background: #269;
+  color: #fff;
+  font-size: 1.5em;
+  border: 1px solid #666;
+  font-family: "Karla", helvetica;
+  padding: 1em;
+  width: 100%;
+}

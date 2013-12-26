@@ -1,0 +1,42 @@
+- function menuClass(title) { return page.title === title ? "active" : "inactive"; }
+
+doctype html
+html(lang="en")
+  head
+    meta(charset="utf-8")
+    link(rel="stylesheet" href="css/style.css")
+    link(href="http://fonts.googleapis.com/css?family=Abel|Karla" rel="stylesheet" type="text/css")
+    title= locals.title
+  body
+    header
+      a(href="/")
+        img#logo(src="eraleijonat-logo.png" alt="Helsingin Erä-Leijonien logo")
+      h1= locals.title
+      p#alt= locals.slogan
+    nav
+      ul
+        li(class=menuClass("index"))
+          a(href="/index.html") Etusivu
+        li(class=menuClass("intro"))
+          a(href="/mita_partio_on.html") Partioaate
+        li(class=menuClass("troop"))
+          a(href="/lippukunta.html") Lippukunta
+        li(class=menuClass("join"))
+          a(href="/jaseneksi.html") Jäsenhakemus
+        li(class=menuClass("contact"))
+          a(href="/yhteystiedot.html") Yhteystiedot
+    section#header
+      img(src="header.jpg")
+    article
+      != page.html
+    footer
+      #left
+        span Aina valmiina!
+      #right
+        img#wosmwagggs(src="wosmwagggs100.png" alt="Partiolaisten maailmanjärjestöt WOSM ja WAGGGS")
+    // Keep Heroku emailer awake.
+    script(type="text/javascript").
+      var xhr = new XMLHttpRequest();
+      xhr.open("POST", "http://eraleijonat-emailer.herokuapp.com/ping", true);
+      xhr.setRequestHeader("Content-type", "application/json; charset=utf-8");
+      xhr.send();
