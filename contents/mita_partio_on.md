@@ -33,7 +33,7 @@ Partio on kaikille avointa ja puoluepoliittisesti sitoutumatonta toimintaa. Part
 
 Partion voi aloittaa aikaisintaan seitsemänvuotiaana tai koulun alkaessa. Myöhemmin liittyvät alle 22-vuotiaat pääsevät mukaan oman ikäkautensa ryhmään. Yli 22-vuotiaille ei varsinaisesti järjestetä ohjattua viikottaista partiotoimintaa, vaan he toimivat omatoimisissa johtamistehtävissä.
 
-Partioon voi silti liittyä myös aikuisena, ja tätä varten on tarjolla tukea esim. kurssien muodossa. Ota rohkeasti yhteyttä!
+Partiossa on silti kivaa myös aikuisena, ja alkuun pääsemistä varten on tarjolla tukea esim. kurssien muodossa. Ota rohkeasti yhteyttä!
 
 ### Mitä se maksaa?
 
