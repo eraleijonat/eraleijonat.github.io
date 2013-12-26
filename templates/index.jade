@@ -37,7 +37,7 @@ html(lang="fi")
           a(href="yhteystiedot.html") Yhteystiedot
     section#header
       img(src="header.jpg")
-    article
+    article(id=page.title)
       != page.html
       - if (page.title === "join")
         include joinform

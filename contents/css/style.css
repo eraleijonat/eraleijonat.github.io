@@ -14,7 +14,7 @@ p {
 }
 
 header {
-  background: #456;
+  background: #456 url("fdl-small.png") no-repeat 95% 50%;
   padding: 2em 3em 1em;
 }
 
@@ -48,9 +48,14 @@ footer #right {
 }
 
 article {
+  background: url("fdl.png") no-repeat 100% 100px;
   margin: 0 auto;
   padding: 2em 0;
   width: 70%;
+}
+
+article#index {
+  background-image: none;
 }
 
 #alt {
