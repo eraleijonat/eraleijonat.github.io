@@ -3,6 +3,8 @@ title: index
 template: index.jade
 ---
 
+<div class="fb-like-box" data-href="https://www.facebook.com/pages/Helsingin-Er&#xe4;-Leijonat/156367904420545" data-height="200px" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="true" data-show-border="true"></div>
+
 **Helsingin Erä-Leijonat ry** on Helsingin Pukinmäessä toimiva partiolippukunta. Pidämme viikottain ikäkausiryhmittäisiä partiokokouksia, joiden lisäksi jäsenemme käyvät muun muassa retkillä, leireillä ja partiotaitokisoissa.
 
 ## Tulevia tapahtumia

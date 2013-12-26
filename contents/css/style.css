@@ -144,8 +144,13 @@ article img {
   margin: 0 0 1em 2em;
 }
 
-iframe {
+iframe,
+.fb-like-box {
   margin-bottom: 1.5em;
+}
+
+.fb-like-box {
+  float: right;
 }
 
 #submit-result {
