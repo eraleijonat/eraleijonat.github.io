@@ -3,15 +3,12 @@ script
     $button = document.getElementById("submit")
     $result = document.getElementById("submit-result")
 
-    # ei mitään jQuerya :) 
-    value = (id) ->
-      document.getElementById(id).value
-
-    showResult = (id) ->
-      $result.style.display = "block"
+    value      = (id) -> document.getElementById(id).value
+    showResult = (id) -> $result.style.display = "block"
 
     send = ->
       url = "http://eraleijonat-emailer.herokuapp.com/new-member"
+      
       params =
         "firstNames":     value("firstNames")
         "lastName":       value("lastName")
@@ -34,17 +31,19 @@ script
         $button.disabled = "true"
 
       xhr = new XMLHttpRequest()
-      xhr.open "POST", url, true
-      xhr.setRequestHeader "Content-type", "application/json; charset=utf-8"
+      xhr.open("POST", url, true)
+      xhr.setRequestHeader("Content-type", "application/json; charset=utf-8")
+
       xhr.onreadystatechange = ->
         if xhr.readyState is 4
           result = JSON.parse(xhr.responseText)
-          if xhr.status is 200 and result.success
-            succeed result
-          else
-            fail result
 
-      xhr.send JSON.stringify(params)
+          if xhr.status is 200 and result.success
+            succeed(result)
+          else
+            fail(result)
+
+      xhr.send(JSON.stringify(params))
 
     document.getElementById("submit").onclick = ->
       $result.innerHTML = "Hakemusta lähetetään..."
