@@ -27,7 +27,7 @@ Partio on kaikille avointa ja puoluepoliittisesti sitoutumatonta toimintaa. Part
 
 ### Kuinka liityn?
 
-[Täytä jäsenhakemus](/jaseneksi.html) tai tule kololle kokousten aikaan katsomaan ja kyselemään.
+[Täytä jäsenhakemus](jaseneksi.html) tai tule kololle kokousten aikaan katsomaan ja kyselemään.
 
 ### Minkä ikäisenä voi tulla mukaan?
 
