@@ -17,7 +17,7 @@ Voit seurata toimintakalenteria sähköisesti tilaamalla syötteen Google-kalent
 
 **2005–2006 syntyneet sudenpennut, ryhmä Lentävät kalakukot:** maanantai klo 18–19.
 
-**2003–2004 syntyneet seikkailijat:** tiistai klo 18–19.
+**2003–2004 syntyneet seikkailijat:** tiistai klo 18–19 (alkaa syyskuussa).
 
 **2001–2002 syntyneet tarpojat, ryhmä Pikku paholaiset:** keskiviikko 18–19.
 
