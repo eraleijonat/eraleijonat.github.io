@@ -22,4 +22,4 @@ $ wintersmith preview -p <portti>
 $ wintersmith build
 ```
 
-Tee push gh-pages-branchiin, niin sivut päivittyvät @ http://eraleijonat.github.io/eraleijonat-web/.
+Tee push gh-pages-branchiin, niin sivut päivittyvät @ http://erä-leijonat.fi/.
