@@ -19,6 +19,6 @@ Voit seurata toimintakalenteria sähköisesti tilaamalla syötteen Google-kalent
 
 **2003–2004 syntyneet seikkailijat, ryhmä *Metsän örkit ja möröt:*** tiistai klo 18–19.
 
-**2001–2002 syntyneet tarpojat, ryhmä *Pikku paholaiset:*** keskiviikko 18–19.
+**2001–2002 syntyneet tarpojat, ryhmä *Pikku paholaiset:*** maanantai 19–20.
 
 **1998–2000 syntyneet tarpojat ja samoajat, ryhmä *Rillitorpakat:*** toimintaa joustavasti eri viikonpäivinä.
