@@ -11,14 +11,14 @@ template: index.jade
 
 Voit seurata toimintakalenteria sähköisesti tilaamalla syötteen Google-kalenterista ([XML](https://www.google.com/calendar/feeds/uf6h5fqnsaf2fnrs6trs4906rk%40group.calendar.google.com/public/basic) / [iCal](https://www.google.com/calendar/ical/uf6h5fqnsaf2fnrs6trs4906rk%40group.calendar.google.com/public/basic.ics)). Näin saat esimerkiksi kännykkääsi muistutukset lippukunnan menoista!
 
-## Kokousajat syksy 2014 – kevät 2015
+## Kokousajat, kevät 2015
 
-**2007 syntyneiden uusi sudenpenturyhmä:** torstai klo 18–19.
+**2007 syntyneet sudenpennut, ryhmä *Tulitähdet:*** torstai klo 18–19.
 
-**2005–2006 syntyneet sudenpennut, ryhmä Lentävät kalakukot:** maanantai klo 18–19.
+**2005–2006 syntyneet sudenpennut, ryhmä *Partiosudet:*** maanantai klo 18–19.
 
-**2003–2004 syntyneet seikkailijat:** tiistai klo 18–19 (alkaa syyskuussa).
+**2003–2004 syntyneet seikkailijat, ryhmä *Metsän örkit ja möröt:*** tiistai klo 18–19.
 
-**2001–2002 syntyneet tarpojat, ryhmä Pikku paholaiset:** keskiviikko 18–19.
+**2001–2002 syntyneet tarpojat, ryhmä *Pikku paholaiset:*** keskiviikko 18–19.
 
-**1998–2000 syntyneet tarpojat ja samoajat, ryhmä Rillitorpakat:** toimintaa joustavasti eri viikonpäivinä.
+**1998–2000 syntyneet tarpojat ja samoajat, ryhmä *Rillitorpakat:*** toimintaa joustavasti eri viikonpäivinä.
