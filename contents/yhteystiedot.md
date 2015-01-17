@@ -7,14 +7,10 @@ template: index.jade
 
 ### Kolo
 
-![Kolon ovi](kolo.jpg)
-
-Lippukuntamme kolo eli toimintatila sijaitsee Pukinmäessä Öllerin talon (Villa Öller) alakerrassa. Talon tunnistaa sen keltaisesta väristä ja tiilikatosta. Yläkerrassa toimii päiväkoti Nuotti.
-
-Kololla ei ole postiosoitetta, mutta sen löytää karttapalveluista esimerkiksi ohi kulkevan Madetojanpolun avulla tai koordinaateilla 60,2459°N 24,9873°E – [katso vaikka Google Mapsista](http://maps.google.fi/?q=60.2459,+24.9873)!
+Jouduimme muuttamaan loppuvuodesta 2014. Lippukuntamme kolo eli toimintatila sijaitsee nykyään osoitteessa **Palsamipolku 3 D, Helsinki**. Kolon tarkat koordinaatit ovat [60,2442°N 24,9899°E](http://maps.google.fi/?q=60.2442,+24.9899).
 
 ### Johtajisto
 
-Yleisissä yhteydenotoissa oikea osoite on lippukunnanjohtaja Aino Tuomikoski, aino piste tuomikoski ät rokki piste net.
+Yleisissä yhteydenotoissa oikea osoite on lippukunnanjohtaja Maija Ovaska, maija piste ovaska ät hotmail piste com.
 
 Ryhmänjohtajien yhteystiedot annetaan vanhemmille ryhmään liittymisen yhteydessä.
