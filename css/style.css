@@ -16,6 +16,7 @@ p {
 header {
   background: -webkit-gradient(linear, left top, right top, color-stop(0%, #456), color-stop(100%, #334));
   padding: 2em 3em 1em;
+  min-height: 90px;
 }
 
 header .decor {
@@ -89,6 +90,10 @@ nav ul li {
 
   width: 15%;
   min-width: 160px;
+}
+
+nav ul li a {
+  display: inline-block;
 }
 
 nav ul li.active a {
@@ -217,13 +222,18 @@ form button {
 
   nav {
     padding: 0;
-    overflow-x: hidden;
   }
 
   nav ul li {  
     width: 100%;
     box-shadow: none;
     border-bottom: 1px solid #445;
+    border-radius: 0;
+    padding: 0;
+  }
+
+  nav ul li a {
+    margin: 1em;
   }
 
   article {
