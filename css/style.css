@@ -70,7 +70,7 @@ article#index {
 #logo {
   float: left;
   width: 100px;
-  margin: 0 1.5em 1em 0;
+  margin-right: 1em;
 }
 
 nav {
@@ -86,6 +86,7 @@ nav ul li {
   padding: 1em;
   padding-bottom: 1em;
   border-right: 1px solid #005;
+  border-top-right-radius: 20px;
   box-shadow: 3px 0 5px #445;
 
   width: 15%;
@@ -203,4 +204,16 @@ form button {
   font-family: "Karla", helvetica;
   padding: 1em;
   width: 100%;
+}
+
+@media (max-width: 600px) {
+  nav {
+    padding: 0;
+  }
+
+  nav ul li {  
+    width: 100%;
+    box-shadow: none;
+    border-bottom: 1px solid #445;
+  }
 }

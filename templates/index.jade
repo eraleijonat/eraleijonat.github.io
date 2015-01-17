@@ -19,7 +19,7 @@ html(lang="fi")
         fjs.parentNode.insertBefore(js, fjs);
       }(document, "script", "facebook-jssdk"));
     header
-      img#right(src="fdl-small.png")
+      img.decor(src="fdl-small.png")
       a(href="/")
         img#logo(src="eraleijonat-logo.png" alt="Helsingin Erä-Leijonien logo")
       h1= locals.title
@@ -43,9 +43,9 @@ html(lang="fi")
       - if (page.title === "join")
         include joinform
     footer
-      #left(width="200px")
+      #left
         .fb-like(data-href="https://www.facebook.com/pages/Helsingin-Er&#xe4;-Leijonat/156367904420545" data-colorscheme="dark" data-layout="standard" data-action="like" data-show-faces="false" data-share="false")
-      #right
+      .decor 
         img#wosmwagggs(src="wosmwagggs100.png" alt="Partiolaisten maailmanjärjestöt WOSM ja WAGGGS")
     
     // Keep Heroku emailer awake by sending ping on all page loads.
