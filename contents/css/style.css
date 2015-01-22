@@ -140,7 +140,7 @@ p {
 }
 
 article h2 {
-  color: #333;
+  color: #a44;
   font-size: 1.8em;
   margin-bottom: 1em;
   border-bottom: 1px solid #ccc;
@@ -148,8 +148,10 @@ article h2 {
 
 article h3 {
   font-size: 1.2em;
-  margin: 2em 0 1em 0;
+  margin: 2em 0 1em;
   text-transform: uppercase;
+  letter-spacing: 1pt;
+  color: #a44;
 }
 
 article img {
