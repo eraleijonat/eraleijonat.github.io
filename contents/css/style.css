@@ -11,6 +11,7 @@ body {
 p {
   font-family: "Karla", helvetica;
   line-height: 2em;
+  text-align: justify;
 }
 
 header {
@@ -66,6 +67,7 @@ article#index {
 #alt {
   color: #83adbd;
   margin: 1em 0 0;
+  text-align: left;
 }
 
 #logo {
@@ -240,5 +242,9 @@ form button {
 
   article {
     width: 90%;
+  }
+
+  p {
+    text-align: left;
   }
 }
