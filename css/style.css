@@ -15,7 +15,7 @@ p {
 }
 
 header {
-  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #456), color-stop(100%, #334));
+  background: #314151;
   padding: 2em 3em 1em;
   min-height: 90px;
 }
