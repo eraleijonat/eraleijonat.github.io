@@ -14,6 +14,10 @@ p {
   text-align: justify;
 }
 
+span.small {
+  font-size: .8em;
+}
+
 header {
   background: #314151;
   padding: 2em 3em 1em;
@@ -181,10 +185,14 @@ form label {
   display: block;
 }
 
-form input,
+form input[type="text"],
 form textarea {
   font-family: "Karla";
   width: 90%;
+}
+
+form input[type="checkbox"] {
+  margin-right: 1em;
 }
 
 form input#birth-year {
@@ -201,6 +209,10 @@ form textarea {
   margin: .5em 0 1em;
   padding: 1em;
   font-size: 1em;
+}
+
+form table {
+  padding-top: .5em;
 }
 
 form button {

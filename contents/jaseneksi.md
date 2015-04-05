@@ -5,6 +5,6 @@ template: index.jade
 
 ## Jäsenhakemus
 
-Olet hakemassa jäsenyyttä **Helsingin Erä-Leijonat ry**:hyn ja samalla **Suomen Partiolaiset ry**:hyn. Jos täytät lomaketta lapsesi puolesta, ole hyvä ja täytä myös huoltajan tiedot.
+Olet hakemassa jäsenyyttä **Helsingin Erä-Leijonat ry**:hyn. Jos täytät lomaketta lapsesi puolesta, ole hyvä ja täytä myös huoltajan tiedot.
 
-Jäsenen on maksettava vuosittain Suomen Partiolaisten ja lippukunnan jäsenmaksu. Suomen Partiolaiset ry lähettää näistä yhdistetyn laskun postitse.
+Jäsenten on maksettava vuosittain Suomen Partiolaisten ja lippukunnan jäsenmaksu. Suomen Partiolaiset&nbsp;ry lähettää näistä yhdistetyn laskun postitse.

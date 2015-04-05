@@ -3,6 +3,7 @@ script
     $button = document.getElementById("submit")
     $result = document.getElementById("submit-result")
 
+    checked    = (id) -> document.getElementById(id).checked
     value      = (id) -> document.getElementById(id).value
     showResult = (id) -> $result.style.display = "block"
 
@@ -20,6 +21,7 @@ script
         "huoltaja-phone": value("huoltaja-phone")
         "huoltaja-email": value("huoltaja-email")
         "details":        value("details")
+        "photo-publication-ok": checked("photo-publication-ok")
 
       fail = (result) ->
         $result.innerHTML = result.fail

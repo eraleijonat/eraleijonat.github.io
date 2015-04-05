@@ -79,7 +79,15 @@ form
   
   label(for='huoltaja-email') Huoltajan sähköpostiosoite
   input#huoltaja-email(type='text', placeholder='Huoltajan sähköposti')
-  
+ 
+  label(for='photo-publication-ok') Valokuvien verkkojulkaisu
+  table
+    tr
+      td
+        input#photo-publication-ok(type='checkbox')
+      td
+        span.small Annan lippukunnalle luvan julkaista lapsestani partiotapahtumissa otettuja valokuvia internetissä (Facebook, kotisivut jne.).
+
   h3 Lisätiedot
   
   textarea#details(placeholder='Vapaa lisätietokenttä. Onko kysyttävää, haluatko meidän ottavan yhteyttä, tms.?')
