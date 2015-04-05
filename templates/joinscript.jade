@@ -21,7 +21,7 @@ script
         "huoltaja-phone": value("huoltaja-phone")
         "huoltaja-email": value("huoltaja-email")
         "details":        value("details")
-        "photo-publication-ok": checked("photo-publication-ok")
+        "photo-publication-ok": "" + checked("photo-publication-ok")
 
       fail = (result) ->
         $result.innerHTML = result.fail
