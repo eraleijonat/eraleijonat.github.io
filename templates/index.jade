@@ -52,7 +52,7 @@ html(lang="fi")
     //- Keep Heroku emailer awake by sending ping on all page loads.
     script(type="text/javascript").
       var xhr = new XMLHttpRequest();
-      xhr.open("POST", "http://eraleijonat-emailer.herokuapp.com/ping", true);
+      xhr.open("POST", "https://eraleijonat-emailer.herokuapp.com/ping", true);
       xhr.setRequestHeader("Content-type", "application/json; charset=utf-8");
       xhr.send();
 
