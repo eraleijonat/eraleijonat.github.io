@@ -22,9 +22,9 @@ html(lang="fi")
         fjs.parentNode.insertBefore(js, fjs);
       }(document, "script", "facebook-jssdk"));
     header
-      img.decor(src="fdl-small.png")
+      img.decor(src="fdl-small.png" width="100" height="100")
       a(href="/")
-        img#logo(src="eraleijonat-logo.png" alt="Helsingin Erä-Leijonien logo")
+        img#logo(src="eraleijonat-logo.png" alt="Helsingin Erä-Leijonien logo" width="100" height="100")
       h1= locals.title
       p#alt= locals.slogan
     nav
@@ -49,7 +49,7 @@ html(lang="fi")
       #left
         .fb-like(data-href="https://www.facebook.com/pages/Helsingin-Er&#xe4;-Leijonat/156367904420545" data-colorscheme="dark" data-layout="standard" data-action="like" data-show-faces="false" data-share="false")
       .decor 
-        img#wosmwagggs(src="wosmwagggs100.png" alt="Partiolaisten maailmanjärjestöt WOSM ja WAGGGS")
+        img#wosmwagggs(src="wosmwagggs100.png" width="100" height="50" alt="Partiolaisten maailmanjärjestöt WOSM ja WAGGGS")
     
     //- Keep Heroku emailer awake by sending ping on all page loads.
     script(type="text/javascript").
