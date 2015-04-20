@@ -25,10 +25,6 @@ header {
   overflow: auto;
 }
 
-header .decor {
-  float: right;
-}
-
 section#header {
   background: #333;
   text-align: center;
