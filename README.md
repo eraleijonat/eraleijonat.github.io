@@ -4,10 +4,11 @@ Staattiset sivut -> ei tarvetta webhotellille tai julkaisujärjestelmän päivit
 
 ## Kehitysprosessi
 
-Asenna wintersmith.
+Asenna wintersmith ja plugarit.
 
 ```bash
 $ npm install wintersmith -g
+$ npm install wintersmith-sitemap -g
 ```
 
 Aja sivua lokaalisti.
