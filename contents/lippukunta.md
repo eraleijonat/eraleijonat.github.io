@@ -11,4 +11,4 @@ Teemme yhteistyötä muiden lähialueiden lippukuntien kanssa. Viime aikoina ole
 
 ### Jäsenyydet kattojärjestöissä
 
-Helsingin Erä-Leijonat (HEL) kuuluu [Pääkaupunkiseudun partiolaisiin (PäPa)](www.papa.partio.fi), joka kuuluu [Suomen partiolaisiin (SP)](http://www.partio.fi/), joka kuuluu partiolaisten kansainvälisiin maailmanjärjestöihin [World Organization of the Scout Movementiin (WOSM)](http://www.scout.org/) ja [World Association of Girl Guides and Girl Scoutsiin (WAGGGS)](http://www.wagggs.org/).
+Helsingin Erä-Leijonat (HEL) kuuluu [Pääkaupunkiseudun partiolaisiin (PäPa)](http://www.paakaupunkiseudunpartiolaiset.fi), joka kuuluu [Suomen partiolaisiin (SP)](http://www.partio.fi/), joka kuuluu partiolaisten kansainvälisiin maailmanjärjestöihin [World Organization of the Scout Movementiin (WOSM)](http://www.scout.org/) ja [World Association of Girl Guides and Girl Scoutsiin (WAGGGS)](http://www.wagggs.org/).
