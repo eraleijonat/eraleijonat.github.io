@@ -22,11 +22,12 @@ html(lang="fi")
         fjs.parentNode.insertBefore(js, fjs);
       }(document, "script", "facebook-jssdk"));
     header
-      img.decor(src="fdl-small.png" width="100" height="100")
-      a(href="/")
-        img#logo(src="eraleijonat-logo.png" alt="Helsingin Erä-Leijonien logo" width="100" height="100")
-      h1= locals.title
-      p#alt= locals.slogan
+      #left
+        a(href="/")
+          img#logo(src="eraleijonat-logo.png" alt="Helsingin Erä-Leijonien logo")
+      #right
+        h1= locals.title
+        p#alt= locals.slogan
     nav
       ul
         li(class=menuClass("index"))

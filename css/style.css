@@ -22,6 +22,7 @@ header {
   background: #314151;
   padding: 2em 3em 1em;
   min-height: 90px;
+  overflow: auto;
 }
 
 header .decor {
@@ -74,9 +75,18 @@ article#index {
   text-align: left;
 }
 
-#logo {
+header #left {
   float: left;
   margin-right: 1em;
+}
+
+header #right {
+  float: left;
+}
+
+#logo {
+  width: 100px;
+  height: 100px;
 }
 
 nav {
@@ -234,6 +244,15 @@ form button {
   footer {
     padding: 1em;
     font-size: .8em;
+  }
+
+  header #left {
+    margin-right: .5em;
+  }
+
+  #logo {
+    width: 75px;
+    height: 75px;
   }
 
   .decor {
