@@ -152,6 +152,11 @@ article h2 {
   border-bottom: 1px solid #ccc;
 }
 
+h2::before {
+  content: "⚜ ";
+  color: #999;
+}
+
 article h3 {
   font-size: 1.2em;
   margin: 2em 0 1em;
