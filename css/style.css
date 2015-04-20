@@ -43,14 +43,15 @@ footer {
   overflow: hidden; /* Facebook like button iframe tends to break things */
 }
 
-footer #left {
+footer .left {
   width: 50%;
-  float: left;
+}
+
+footer .right {
+  width: 50%;
 }
 
 footer .decor {
-  width: 50%;
-  float: left;
   text-align: right;
 }
 
@@ -71,13 +72,15 @@ article#index {
   text-align: left;
 }
 
-header #left {
+.left {
+  float :left
+}
+.right {
   float: left;
-  margin-right: 1em;
 }
 
-header #right {
-  float: left;
+header .left {
+  margin-right: 1em;
 }
 
 #logo {
@@ -242,7 +245,7 @@ form button {
     font-size: .8em;
   }
 
-  header #left {
+  header .left {
     margin-right: .5em;
   }
 
