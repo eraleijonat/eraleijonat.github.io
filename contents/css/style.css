@@ -97,22 +97,20 @@ nav {
 nav ul li {
   display: inline-block;
   list-style-type: none;
-  padding: 1em;
   border-right: 1px solid #005;
   border-top-right-radius: 20px;
   box-shadow: 3px 0 5px #445;
-
-  width: 15%;
-  min-width: 160px;
 }
 
 nav ul li a {
   display: inline-block;
+  padding: .66em;
+  width: 150px;
 }
 
 nav ul li.active a {
-  border-bottom: 2px solid #ccf;
   color: #fff;
+  text-decoration: underline;
 }
 
 a {
@@ -126,10 +124,9 @@ a:active {
 }
 
 nav a {
-  color: #ccc;
-  margin-right: 2em;
+  color: #bbb;
   text-decoration: none;
-  font-size: 1.5em;
+  font-size: 1.4em;
   text-shadow: 1px 1px #000;
 }
 
@@ -268,10 +265,6 @@ form button {
     border-bottom: 1px solid #445;
     border-radius: 0;
     padding: 0;
-  }
-
-  nav ul li a {
-    margin: .5em;
   }
 
   article {
