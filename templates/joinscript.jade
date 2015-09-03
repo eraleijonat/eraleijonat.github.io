@@ -1,5 +1,6 @@
 script
   :coffee
+    $form = document.getElementById("member-details")
     $button = document.getElementById("submit")
     $result = document.getElementById("submit-result")
 
@@ -24,13 +25,16 @@ script
         "photo-publication-ok": "" + checked("photo-publication-ok")
 
       fail = (result) ->
+        $result.style.color = "red"
+        $button.disabled = false
+        $form.style.opacity = 1
         $result.innerHTML = result.fail
         showResult()
 
       succeed = (result) ->
+        $result.style.color = "green"
         $result.innerHTML = result.success
         showResult()
-        $button.disabled = "true"
 
       xhr = new XMLHttpRequest()
       xhr.open("POST", url, true)
@@ -47,6 +51,9 @@ script
 
       xhr.send(JSON.stringify(params))
 
-    document.getElementById("submit").onclick = ->
+    $button.onclick = ->
+      $button.disabled = true
+      $form.style.opacity = .3
+      $result.style.color = "#000"
       $result.innerHTML = "Hakemusta lähetetään..."
       send()
