@@ -22,12 +22,8 @@ html(lang="fi")
         fjs.parentNode.insertBefore(js, fjs);
       }(document, "script", "facebook-jssdk"));
     header
-      .left
-        a(href="/")
-          img#logo(src="eraleijonat-logo.png" alt="Helsingin Erä-Leijonien logo")
-      .right
-        h1= locals.title
-        p#alt= locals.slogan
+      h1= locals.title
+      p#alt= locals.slogan
     nav
       ul
         li(class=menuClass("index"))
@@ -40,8 +36,6 @@ html(lang="fi")
           a(href="jaseneksi.html") Jäsenhakemus
         li(class=menuClass("contact"))
           a(href="yhteystiedot.html") Yhteystiedot
-    section#header
-      img(src="header.jpg")
     article(id=page.title)
       != page.html
       - if (page.title === "join")

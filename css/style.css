@@ -19,19 +19,10 @@ span.small {
 }
 
 header {
-  background: #314151;
-  padding: 2em 3em 1em;
-  min-height: 90px;
-  overflow: auto;
-}
-
-section#header {
-  background: #333;
-  text-align: center;
-}
-
-section#header img {
-  width: 100%;
+  padding: 3%;
+  background: #48a url('../header.jpg');
+  background-size: cover;
+  overflow: hidden;
 }
 
 footer {
@@ -66,10 +57,30 @@ article#index {
   background-image: none;
 }
 
+#alt, h1 {
+  display: table-cell;
+  padding: 5px;
+  text-align: center;
+  display: block;
+}
+
+h1 {
+  background: #fff;
+  opacity: .6;
+  font-size: 3em;
+  max-width: 400px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
 #alt {
-  color: #83adbd;
-  margin: 1em 0 0;
-  text-align: left;
+  background: #334;
+  color: #fff;
+  margin: 4% 0 0;
+  width: 40%;
+  transform: rotate(-4deg);
+  -webkit-transform: rotate(-4deg);
+  -ms-transform: rotate(-4deg);
 }
 
 .left {
@@ -99,7 +110,7 @@ nav ul li {
   list-style-type: none;
   border-right: 1px solid #005;
   border-top-right-radius: 20px;
-  box-shadow: 3px 0 5px #445;
+  box-shadow: 3px 0 10px -2px #445;
 }
 
 nav ul li a {
@@ -138,12 +149,6 @@ nav a:active {
 
 header, nav, h1, h2, h3, h4, form {
   font-family: "Abel", sans-serif;
-}
-
-h1 {
-  color: #fff;
-  text-shadow: 2px 2px #000;
-  text-transform: uppercase;
 }
 
 p {
@@ -236,19 +241,30 @@ form button {
 }
 
 @media (max-width: 600px) {
-  header,
   footer {
     padding: 1em;
     font-size: .8em;
   }
 
-  header .left {
-    margin-right: .5em;
+  header p {
   }
 
   #logo {
     width: 75px;
     height: 75px;
+  }
+
+  #alt {
+    transform: none;
+    -webkit-transform: none;
+    -ms-transform: none;
+    width: auto;
+    max-width: 400px;
+  }
+
+  h1, #alt {
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .decor {
