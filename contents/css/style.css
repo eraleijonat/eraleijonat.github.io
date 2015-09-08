@@ -159,7 +159,7 @@ article p {
 
 article h2 {
   color: #a44;
-  font-size: 1.8em;
+  font-size: 1.5em;
   margin-bottom: 1em;
   border-bottom: 1px solid #ccc;
 }
@@ -242,6 +242,35 @@ form button {
   width: 100%;
 }
 
+#index table {
+  border-collapse: collapse;
+  font-family: "Karla", helvetica;
+  margin: 0 auto 1em;
+}
+
+#index table td, #index table th {
+  padding: 10px;
+  width: 100px;
+}
+
+#index table td {
+  background: #fff;
+  border: 1px solid #ccc;
+  word-break: break-word;
+  font-size: 16px;
+}
+
+#index table td:first-child {
+  background: none;
+  border: none;
+  font-size: 18px;
+  width: auto;
+}
+
+#index table td:hover {
+  background: transparent;
+}
+
 @media (max-width: 600px) {
   footer {
     padding: 1em;
@@ -291,5 +320,12 @@ form button {
 
   p {
     text-align: left;
+  }
+
+  #index table td,
+  #index table th,
+  #index table td:first-child {
+    padding: 3px;
+    font-size: 14px;
   }
 }
