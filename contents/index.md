@@ -3,7 +3,9 @@ title: index
 template: index.jade
 ---
 
-**Helsingin Erä-Leijonat ry** on Helsingin Pukinmäessä toimiva partiolippukunta. Pidämme viikottain ikäkausiryhmittäisiä partiokokouksia, joiden lisäksi jäsenemme käyvät muun muassa retkillä, leireillä ja partiotaitokisoissa.
+**Helsingin Erä-Leijonat ry** on Helsingin Pukinmäessä toimiva partiolippukunta. Pidämme viikottain ikäkausiryhmittäisiä partiokokouksia, joiden lisäksi jäsenemme käyvät muun muassa leireillä, vaelluksilla ja partiotaitokisoissa.
+
+Partio on kiva harrastus sekä lapsille että aikuisille, tule mukaan toimintaan!
 
 ## Kokousajat, syksy 2015
 
