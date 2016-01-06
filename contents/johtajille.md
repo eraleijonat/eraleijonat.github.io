@@ -25,9 +25,8 @@ Kululaskujen lähettämiseen löytyy kololta kirjekuoria ja postimerkkejä. Kirj
 
 ```
 Helsingin Erä-Leijonat ry
-Kristian Tornivaara
-Huhtariihentie 12
-04360 Tuusula
+Surma/KTO, PL 970
+00101 Helsinki
 ```
 
 Toimita kululaskut mahdollisimman nopeasti ostotapahtuman jälkeen, ja viimeistään niin, että ne ehditään tilittää saman tilikauden (=kalenterivuoden) aikana.
