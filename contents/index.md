@@ -3,6 +3,7 @@ title: index
 template: index.jade
 ---
 
+![Vaellus Paistuntureilla](paistunturi.jpg)
 **Helsingin Erä-Leijonat ry** on Helsingin Pukinmäessä toimiva partiolippukunta. Pidämme viikottain ikäkausiryhmittäisiä partiokokouksia, joiden lisäksi jäsenemme käyvät muun muassa leireillä, vaelluksilla ja partiotaitokisoissa.
 
 Partio on kiva harrastus sekä lapsille että aikuisille, tule mukaan toimintaan!

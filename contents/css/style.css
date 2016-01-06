@@ -272,6 +272,10 @@ form button {
 }
 
 @media (max-width: 600px) {
+  article img {
+    display: none;
+  }
+
   footer {
     padding: 1em;
     font-size: .8em;
