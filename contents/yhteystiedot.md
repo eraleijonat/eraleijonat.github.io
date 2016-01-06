@@ -16,3 +16,15 @@ Jouduimme muuttamaan loppuvuodesta 2014. Lippukuntamme kolo eli toimintatila sij
 ### Varasto
 
 Lippukunnan varasto sijaitsee [Pukinmäen kartanon](http://pukinmaki.fi/pukinmaen-kartano) pihapiirissä osoitteessa **Rälssintie 15, Helsinki**.
+
+### Pankkiyhteys
+
+Yhdistyksen saatavat voi suorittaa tilisiirtona:
+
+```
+Saaja: Helsingin Erä-Leijonat ry
+IBAN: FI67 3636 3001 3005 65
+BIC: SBANFIHH
+```
+
+Osallistumismaksujen tapauksessa kohdetili tulee kuitenkin tarkistaa aina tapauskohtaisesti. Meillä on paljon tapahtumia, joiden talous hoidetaan jonkin toisen yhdistyksen tilin kautta.

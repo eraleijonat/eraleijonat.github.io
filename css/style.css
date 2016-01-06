@@ -11,8 +11,12 @@ body {
 
 p {
   font-family: "Karla", helvetica;
-  line-height: 2em;
   text-align: justify;
+}
+
+
+p, pre {
+  line-height: 2em;
 }
 
 span.small {
@@ -152,8 +156,11 @@ header, nav, h1, h2, h3, h4, form {
   font-family: "Abel", sans-serif;
 }
 
-article p {
+article p, article pre {
   margin-bottom: 1.5em;
+}
+
+article p {
   letter-spacing: -.25px;
 }
 
