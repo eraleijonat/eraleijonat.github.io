@@ -7,7 +7,9 @@ template: index.jade
 
 ### Johtajisto
 
-Yleisissä yhteydenotoissa oikea osoite on lippukunnanjohtaja Maija Ovaska, maija piste ovaska ät hotmail piste com. Ryhmänjohtajien yhteystiedot annetaan vanhemmille ryhmään liittymisen yhteydessä.
+Yleisissä yhteydenotoissa oikea henkilö on lippukunnanjohtaja Maija Ovaska, [maija.ovaska@hotmail.com](mailto:maija.ovaska@hotmail.com). Ryhmänjohtajien yhteystiedot annetaan vanhemmille ryhmään liittymisen yhteydessä.
+
+Pyrimme vastaamaan yhteydenottoihin ripeästi. Muista kuitenkin, että partio on vapaaehtoisten vapaa-ajallaan hoitamaa harrastustoimintaa, joten emme ole tavoitettavissa aivan 24/7.
 
 ### Kolo
 
