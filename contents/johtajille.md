@@ -5,6 +5,12 @@ template: index.jade
 
 ## Johtajille
 
+### Lippukunnan logo
+
+[Helsingin Erä-Leijonien logo, PNG, valkoinen tausta](logo/hel-logo.png)
+
+[Helsingin Erä-Leijonien logo, PNG, läpinäkyvä tausta](logo/hel-logo-transparent.png)
+
 ### Hankintaohje
 
 Yhdistykselle tehtävät hankinnat on helpointa maksaa laskulla. Esimerkiksi kämppävuokrat ja piirin tapahtumien osallistumismaksut sekä yhteiskuljetukset voi tilata suoraan laskulle. Ennalta määrätyt henkilöt voivat ostaa myös Partioaitasta suoraan laskulle todistamalla henkilöllisyytensä kassalla. 
