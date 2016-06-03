@@ -1,4 +1,5 @@
 * {
+  font-family: "Karla", helvetica;
   margin: 0;
   padding: 0;
 }
@@ -10,7 +11,6 @@ body {
 }
 
 p {
-  font-family: "Karla", helvetica;
   text-align: justify;
 }
 
@@ -24,14 +24,13 @@ span.small {
 }
 
 header {
-  padding: 3%;
   background: #48a url('../header.jpg');
   background-size: cover;
   overflow: hidden;
+  text-align: center;
 }
 
 footer {
-  font-family: "Karla", helvetica;
   padding: 1.5em 3em 2em;
   background: #333;
   color: #aaa;
@@ -62,30 +61,21 @@ article#index {
   background-image: none;
 }
 
-#alt, h1 {
-  display: table-cell;
-  padding: 5px;
-  text-align: center;
-  display: block;
-}
-
 h1 {
-  background: #fff;
-  opacity: .6;
+  color: #fff;
+  text-shadow: 2px 3px 3px #000;
   font-size: 3em;
-  max-width: 400px;
-  text-align: center;
+  line-height: 2em;
   text-transform: uppercase;
 }
 
 #alt {
-  background: #334;
+  background: rgba(0,0,0,.6);
   color: #fff;
-  margin-top: 4%;
-  width: 40%;
-  transform: rotate(-4deg);
-  -webkit-transform: rotate(-4deg);
-  -ms-transform: rotate(-4deg);
+  display: inline-block;
+  margin-bottom: 2em;
+  padding: 10px;
+  line-height: 1em;
 }
 
 .left {
@@ -151,7 +141,7 @@ nav a:active {
   color: #fff;
 }
 
-header, nav, h1, h2, h3, h4, form {
+nav ul li a, h1, h2, h3, h4, form {
   font-family: "Abel", sans-serif;
 }
 
@@ -167,7 +157,6 @@ article h2 {
   color: #a44;
   font-size: 1.5em;
   margin-bottom: 1em;
-  border-bottom: 1px solid #ccc;
 }
 
 h2::before {
@@ -187,7 +176,7 @@ article img {
   max-width: 200px;
   float: right;
   border: 1px solid #aaa;
-  border-radius: 10px;
+  border-radius: 2px;
   margin: 0 0 1em 2em;
 }
 
@@ -210,7 +199,6 @@ form label {
 
 form input[type="text"],
 form textarea {
-  font-family: "Karla";
   width: 90%;
 }
 
@@ -243,14 +231,12 @@ form button {
   color: #fff;
   font-size: 1.5em;
   border: 1px solid #666;
-  font-family: "Karla", helvetica;
   padding: 1em;
   width: 100%;
 }
 
 #index table {
   border-collapse: collapse;
-  font-family: "Karla", helvetica;
   margin: 0 auto 1em;
 }
 
@@ -293,16 +279,11 @@ form button {
   }
 
   #alt {
-    transform: none;
-    -webkit-transform: none;
-    -ms-transform: none;
-    width: auto;
-    max-width: 400px;
+    font-size: 12px;
   }
 
-  h1, #alt {
-    margin-left: auto;
-    margin-right: auto;
+  h1 {
+    font-size: 24px;
   }
 
   .decor {

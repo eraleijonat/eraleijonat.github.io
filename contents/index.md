@@ -8,13 +8,6 @@ template: index.jade
 
 Partio on kiva harrastus sekä lapsille että aikuisille, tule mukaan toimintaan!
 
-## Uutisia
-
-<p style="background: rgba(255,255,0,.3);padding:.5em">
-**Aikuinen, kiinnostaako partiotoiminta?**
-Etsimme vetäjää 2016 aloittavalle uudelle sudenpenturyhmälle, kokoukset keskiviikkoisin klo 18–19. Saat pestiin koulutusta ja tukea. [Ota yhteyttä!](yhteystiedot.html)
-</p>
-
 ## Kokousajat, syksy 2015
 
 |           | Ma                   | Ti                       | Ke | To                      | Pe |
