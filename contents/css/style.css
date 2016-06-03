@@ -75,7 +75,7 @@ h1 {
   background: rgba(0,0,0,.6);
   color: #fff;
   display: inline-block;
-  margin-bottom: 2em;
+  margin-bottom: 1.5em;
   padding: 10px;
   line-height: 1em;
 }
@@ -167,11 +167,6 @@ article h2 {
   color: #a44;
   font-size: 1.5em;
   margin-bottom: 1em;
-}
-
-h2::before {
-  content: "⚜ ";
-  color: #999;
 }
 
 article h3 {
