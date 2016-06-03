@@ -22,7 +22,9 @@ html(lang="fi")
         fjs.parentNode.insertBefore(js, fjs);
       }(document, "script", "facebook-jssdk"));
     header
-      h1= locals.title
+      h1
+        //- img#logo(src="/logo/hel-logo.svg" alt="Helsingin Erä-Leijonien logo")
+        =locals.title
       span#alt= locals.slogan
     nav
       ul
