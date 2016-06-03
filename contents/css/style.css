@@ -49,6 +49,9 @@ footer .right {
 footer .decor {
   text-align: right;
 }
+footer .decor img {
+  margin-left: 10px;
+}
 
 article {
   background: url("fdl.png") no-repeat 100% 100px;
