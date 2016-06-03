@@ -34,11 +34,11 @@ footer {
   padding: 1.5em 3em 2em;
   background: #333;
   color: #aaa;
-  min-height: 50px;
   overflow: hidden; /* Facebook like button iframe tends to break things */
 }
 
 footer .left {
+  line-height: 0;
   width: 50%;
 }
 
@@ -48,11 +48,8 @@ footer .right {
 
 footer .decor {
   text-align: right;
+  line-height: 0;
 }
-footer .decor img {
-  margin-left: 10px;
-}
-
 article {
   background: url("fdl.png") no-repeat 100% 100px;
   margin: 0 auto;
