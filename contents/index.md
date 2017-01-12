@@ -10,10 +10,10 @@ Partio on kiva harrastus sekä lapsille että aikuisille, tule mukaan toimintaan
 
 ## Kokousajat, syksy 2015
 
-|           | Ma                   | Ti                       | Ke | To                      | Pe |
-|----------:|:--------------------:|:------------------------:|:--:|:-----------------------:|:--:|
-| **18–19** | **'05** seikkailijat | **'03–'04** seikkailijat | –  | **'06–'08** sudenpennut | –  |
-| **19–20** | **'01–'02** tarpojat | –                        | –  | **'98–'00** samoajat    | –  |
+|           | Ma                   | Ti                   | Ke | To                      | Pe |
+|----------:|:--------------------:|:--------------------:|:--:|:-----------------------:|:--:|
+| **18–19** | **'05** seikkailijat | **'06** seikkailijat | –  | **'07–'08** sudenpennut | –  |
+| **19–20** | **'01–'02** tarpojat | **'03–'04** tarpojat | –  | **'98–'00** samoajat    | –  |
 
 Kokoukset pidetään tavallisesti [kololla](yhteystiedot.html#kolo).
 
