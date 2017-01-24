@@ -203,12 +203,14 @@ form label {
 }
 
 form input[type="text"],
+form input[type="email"],
+form input[type="tel"],
 form textarea {
   width: 90%;
 }
 
 form input[type="checkbox"] {
-  margin-right: 1em;
+  margin-right: 1.3em;
 }
 
 form input#birth-year {
@@ -238,6 +240,7 @@ form button {
   border: 1px solid #666;
   padding: 1em;
   width: 100%;
+  cursor: pointer;
 }
 
 #index table {

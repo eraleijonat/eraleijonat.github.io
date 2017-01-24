@@ -7,8 +7,9 @@ Staattiset sivut -> ei tarvetta webhotellille tai julkaisujärjestelmän päivit
 Asenna wintersmith ja plugarit.
 
 ```bash
-$ npm install wintersmith -g
-$ npm install wintersmith-sitemap -g
+$ npm install -g wintersmith
+$ npm install -g wintersmith-contents
+$ npm install -g wintersmith-sitemap
 ```
 
 Aja sivua lokaalisti.
