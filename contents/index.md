@@ -8,7 +8,7 @@ template: index.jade
 
 Partio on kiva harrastus sekä lapsille että aikuisille, tule mukaan toimintaan!
 
-## Kokousajat, syksy 2015
+## Kokousajat, kevät 2017
 
 |           | Ma                   | Ti                   | Ke | To                      | Pe |
 |----------:|:--------------------:|:--------------------:|:--:|:-----------------------:|:--:|
