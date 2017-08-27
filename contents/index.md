@@ -8,12 +8,13 @@ template: index.jade
 
 Partio on kiva harrastus sekä lapsille että aikuisille, tule mukaan toimintaan!
 
-## Kokousajat, kevät 2017
+## Kokousajat, syksy 2017
 
-|           | Ma                   | Ti                   | Ke | To                      | Pe |
-|----------:|:--------------------:|:--------------------:|:--:|:-----------------------:|:--:|
-| **18–19** | **'05** seikkailijat | **'06** seikkailijat | –  | **'07–'08** sudenpennut | –  |
-| **19–20** | **'01–'02** tarpojat | **'03–'04** tarpojat | –  | **'98–'00** samoajat    | –  |
+|                 | Ma               | Ti                   | Ke                      | To                       | Pe |
+|----------------:|:----------------:|:--------------------:|:-----------------------:|:------------------------:|:--:|
+| **18.00–18.30** | **'05** tarpojat | **'06** seikkailijat | **'09–'10** sudenpennut | –                        | –  |
+| **18.30–19.00** | **'05** tarpojat | **'06** seikkailijat | **'09–'10** sudenpennut | **'07–'08** seikkailijat | –  |
+| **19.00–19.30** | –                | –                    | –                       | **'07–'08** seikkailijat | –  |
 
 Kokoukset pidetään tavallisesti [kololla](yhteystiedot.html#kolo).
 
