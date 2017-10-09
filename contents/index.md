@@ -10,11 +10,13 @@ Partio on kiva harrastus sekä lapsille että aikuisille, tule mukaan toimintaan
 
 ## Kokousajat, syksy 2017
 
-|                 | Ma               | Ti                   | Ke                      | To                       | Pe |
-|----------------:|:----------------:|:--------------------:|:-----------------------:|:------------------------:|:--:|
-| **18.00–18.30** | **'05** tarpojat | **'06** seikkailijat | **'09–'10** sudenpennut | –                        | –  |
-| **18.30–19.00** | **'05** tarpojat | **'06** seikkailijat | **'09–'10** sudenpennut | **'07–'08** seikkailijat | –  |
-| **19.00–19.30** | –                | –                    | –                       | **'07–'08** seikkailijat | –  |
+|                 | Ma               | Ti                    | Ke                      | To                       | Pe |
+|----------------:|:----------------:|:---------------------:|:-----------------------:|:------------------------:|:--:|
+| **18.00–18.30** | **'05** tarpojat | **'06** seikkailijat  | **'09–'10** sudenpennut | –                        | –  |
+| **18.30–19.00** | **'05** tarpojat | **'06** seikkailijat  | **'09–'10** sudenpennut | **'07–'08** seikkailijat | –  |
+| **19.00–19.30** | –                | Samoajat ja vaeltajat | –                       | **'07–'08** seikkailijat | –  |
+| **19.30–20.00** | –                | Samoajat ja vaeltajat | –                       | –                        | –  |
+| **20.00–20.30** | –                | Samoajat ja vaeltajat | –                       | –                        | –  |
 
 Kokoukset pidetään tavallisesti [kololla](yhteystiedot.html#kolo).
 
