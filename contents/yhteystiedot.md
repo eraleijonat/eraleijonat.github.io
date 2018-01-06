@@ -7,7 +7,7 @@ template: index.jade
 
 ### Johtajisto
 
-Yleisissä yhteydenotoissa oikea henkilö on lippukunnanjohtaja Aino Tuomikoski, [tuomikoskenaino@gmail.com](mailto:tuomikoskenaino@gmail.com). Ryhmänjohtajien yhteystiedot annetaan vanhemmille ryhmään liittymisen yhteydessä.
+Yleisissä yhteydenotoissa voit lähettää sähköpostia osoitteeseen [helsingineraleijonat@hotmail.com](mailto:helsingineraleijonat@hotmail.com). Ryhmänjohtajien yhteystiedot annetaan vanhemmille ryhmään liittymisen yhteydessä.
 
 Pyrimme vastaamaan yhteydenottoihin ripeästi. Muista kuitenkin, että partio on vapaaehtoisten vapaa-ajallaan hoitamaa harrastustoimintaa, joten emme ole tavoitettavissa aivan 24/7.
 
