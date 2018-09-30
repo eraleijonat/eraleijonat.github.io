@@ -8,15 +8,15 @@ template: index.jade
 
 Partio on kiva harrastus sekä lapsille että aikuisille, tule mukaan toimintaan!
 
-## Kokousajat, syksy 2018
+## Kolon viikkokalenteri, syksy 2018
 
-|                 | Ma                   | Ti                       | Ke                      | To                       | Pe |
-|----------------:|:--------------------:|:------------------------:|:-----------------------:|:------------------------:|:--:|
-| **18.00–18.30** | **'05** tarpojat     | **'08–'09** seikkailijat | **'10–'11** sudenpennut | –                        | –  |
-| **18.30–19.00** | **'05** tarpojat     | **'08–'09** seikkailijat | **'10–'11** sudenpennut | **'07–'08** seikkailijat | –  |
-| **19.00–19.30** | **'06** seikkailijat | Samoajat ja vaeltajat    | –                       | **'07–'08** seikkailijat | –  |
-| **19.30–20.00** | **'06** seikkailijat | Samoajat ja vaeltajat    | –                       | –                        | –  |
-| **20.00–20.30** | –                    | Samoajat ja vaeltajat    | –                       | –                        | –  |
+|                 | Ma                   | Ti                       | Ke                      | To                       | Pe                       |
+|----------------:|:--------------------:|:------------------------:|:-----------------------:|:------------------------:|:------------------------:|
+| **18.00–18.30** | **'05** tarpojat     | **'08–'09** seikkailijat | **'10–'11** sudenpennut | –                        | *seurakunnan puutyöpaja* |
+| **18.30–19.00** | **'05** tarpojat     | **'08–'09** seikkailijat | **'10–'11** sudenpennut | **'07–'08** seikkailijat | *seurakunnan puutyöpaja* |
+| **19.00–19.30** | **'06** seikkailijat | Samoajat ja vaeltajat    | –                       | **'07–'08** seikkailijat | *seurakunnan puutyöpaja* |
+| **19.30–20.00** | **'06** seikkailijat | Samoajat ja vaeltajat    | –                       | –                        | *seurakunnan puutyöpaja* |
+| **20.00–20.30** | –                    | Samoajat ja vaeltajat    | –                       | –                        | *seurakunnan puutyöpaja* |
 
 Kokoukset pidetään tavallisesti [kololla](yhteystiedot.html#kolo).
 
