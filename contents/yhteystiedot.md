@@ -7,7 +7,7 @@ template: index.jade
 
 ### Johtajisto
 
-Yleisissä yhteydenotoissa voit lähettää sähköpostia osoitteeseen [maija.ovaska@hotmail.com](mailto:maija.ovaska@hotmail.com). Ryhmänjohtajien yhteystiedot annetaan vanhemmille ryhmään liittymisen yhteydessä.
+Yleisissä yhteydenotoissa voit lähettää sähköpostia osoitteeseen [maija.ovaska@partio.fi](mailto:maija.ovaska@partio.fi). Ryhmänjohtajien yhteystiedot annetaan vanhemmille ryhmään liittymisen yhteydessä.
 
 Pyrimme vastaamaan yhteydenottoihin ripeästi. Muista kuitenkin, että partio on vapaaehtoisten vapaa-ajallaan hoitamaa harrastustoimintaa, joten emme ole tavoitettavissa aivan 24/7.
 
