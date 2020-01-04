@@ -27,7 +27,7 @@ Partio on kaikille avointa ja poliittisesti sitoutumatonta toimintaa. Partio ei 
 
 ### Kuinka liityn?
 
-[Täytä jäsenhakemus](jaseneksi.html) tai tule [kololle](yhteystiedot.html#kolo) kokousten aikaan katsomaan ja kyselemään.
+[Täytä jäsenhakemus](https://kuksa.partio.fi/kotisivut/jasenhakemus.aspx?id=9998988) tai tule [kololle](yhteystiedot.html#kolo) kokousten aikaan katsomaan ja kyselemään.
 
 ### Minkä ikäisenä voi tulla mukaan?
 
