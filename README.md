@@ -24,4 +24,4 @@ $ wintersmith preview -p <portti>
 $ wintersmith build
 ```
 
-Tee push masteriin, niin sivut päivittyvät @ http://erä-leijonat.fi/.
+Tee push masteriin, niin sivut päivittyvät @ https://eraleijonat.fi/.

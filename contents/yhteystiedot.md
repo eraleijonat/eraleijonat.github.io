@@ -13,7 +13,7 @@ Pyrimme vastaamaan yhteydenottoihin ripeästi. Muista kuitenkin, että partio on
 
 ### Kolo
 
-Jouduimme muuttamaan loppuvuodesta 2014. Lippukuntamme kolo eli toimintatila sijaitsee nykyään osoitteessa **Säterinportti 3 E, Helsinki**, lähellä [Pukinmäen asemaa](http://www.junat.net/pukinmaki). Kolon tarkat koordinaatit ovat 60,2442°N 24,9899°E. Niiden avulla tarkka sijainti löytyy helposti esimerkiksi [Google Mapsista](http://maps.google.fi/?q=60.2442,+24.9899).
+Jouduimme muuttamaan loppuvuodesta 2014. Lippukuntamme kolo eli toimintatila sijaitsee nykyään osoitteessa **Säterinportti 3 E, Helsinki**, lähellä [Pukinmäen asemaa](https://www.junat.net/pukinmaki). Kolon tarkat koordinaatit ovat 60,2442°N 24,9899°E. Niiden avulla tarkka sijainti löytyy helposti esimerkiksi [Google Mapsista](http://maps.google.fi/?q=60.2442,+24.9899).
 
 ### Varasto
 
