@@ -25,8 +25,8 @@ Yhdistyksen saatavat voi suorittaa tilisiirtona:
 
 ```
 Saaja: Helsingin Erä-Leijonat ry
-IBAN: FI67 3636 3001 3005 65
-BIC: SBANFIHH
+IBAN: FI42 2084 1800 0223 63
+BIC: NDEAFIHH
 ```
 
 Osallistumismaksujen tapauksessa kohdetili tulee kuitenkin tarkistaa aina tapauskohtaisesti. Meillä on paljon tapahtumia, joiden talous hoidetaan jonkin toisen yhdistyksen tilin kautta.
