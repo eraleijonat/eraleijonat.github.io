@@ -8,15 +8,15 @@ template: index.jade
 
 Partio on kiva harrastus sekä lapsille että aikuisille, tule mukaan toimintaan!
 
-## Kolon viikkokalenteri, syksy 2020
+## Kolon viikkokalenteri, syksy 2021
 
-|                 | Ma                   | Ti                   | Ke                          | To               | Pe                       |
-|----------------:|:--------------------:|:--------------------:|:---------------------------:|:----------------:|:------------------------:|
-| **17.30–18.00** | **'09** seikkailijat | **'10** seikkailijat |                             |                  | *seurakunnan puutyöpaja* |
-| **18.00–18.30** | **'09** seikkailijat | **'10** seikkailijat | **'11–13** sudenpennut (x2) | **'05** samoajat | *seurakunnan puutyöpaja* |
-| **18.30–19.00** | **'09** seikkailijat |                      | **'11–13** sudenpennut (x2) |                  | *seurakunnan puutyöpaja* |
-| **19.00–19.30** | **'06** tarpojat     |                      |                             |                  | *seurakunnan puutyöpaja* |
-| **19.30–20.00** | **'06** tarpojat     |                      |                             |                  | *seurakunnan puutyöpaja* |
+|                 | Ma                   | Ti                      | Ke                          | To                  | Pe                       |
+|----------------:|:--------------------:|:-----------------------:|:---------------------------:|:-------------------:|:------------------------:|
+| **17.30–18.00** | **'09** tarpojat     | **'10-11** seikkailijat |                             |                     | *seurakunnan puutyöpaja* |
+| **18.00–18.30** | **'09** tarpojat     | **'10-11** seikkailijat | **'12–14** sudenpennut (x2) | **'04-05** samoajat | *seurakunnan puutyöpaja* |
+| **18.30–19.00** | **'09** tarpojat     | **'07-08** tarpojat     | **'12–14** sudenpennut (x2) | **'04-05** samoajat | *seurakunnan puutyöpaja* |
+| **19.00–19.30** | **'06** samoajat     | **'07-08** tarpojat     | **'11** seikkailijat        |                     | *seurakunnan puutyöpaja* |
+| **19.30–20.00** | **'06** samoajat     |                         | **'11** seikkailijat        |                     | *seurakunnan puutyöpaja* |
 
 Kokoukset pidetään tavallisesti [kololla](yhteystiedot.html#kolo).
 
