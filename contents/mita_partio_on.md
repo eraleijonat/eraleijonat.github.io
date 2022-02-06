@@ -27,7 +27,7 @@ Partio on kaikille avointa ja poliittisesti sitoutumatonta toimintaa. Partio ei 
 
 ### Kuinka liityn?
 
-[Täytä jäsenhakemus](https://kuksa.partio.fi/kotisivut/jasenhakemus.aspx?id=9998988) tai tule [kololle](yhteystiedot.html#kolo) kokousten aikaan katsomaan ja kyselemään.
+[Täytä jäsenhakemus](jasenhakemus.html#mukaan-aikuisena) tai tule [kololle](yhteystiedot.html#kolo) kokousten aikaan katsomaan ja kyselemään.
 
 ### Minkä ikäisenä voi tulla mukaan?
 
@@ -39,12 +39,14 @@ Yli 22-vuotiaille ei järjestetä ohjattua viikottaista partiotoimintaa, vaan he
 
 Partio on suhteellisen edullinen harrastus. Kustannukset koostuvat pääasiassa vuosittaisesta Suomen Partiolaisten ja lippukunnan jäsenmaksusta ja yksittäisten tapahtumien kuten retkien, leirien ja partiotaitokilpailujen osallistumismaksuista.
 
-Vuonna 2015 Suomen Partiolaisten ja lippukuntamme jäsenmaksu oli yhteensä 71,50 euroa. Yhden varsinaisen jäsenen jälkeen samasta perheestä liittyvät alaikäiset jäsenet maksavat alennettua jäsenmaksua. [SP:n jäsenetuihin](http://www.partio.fi/jasenedut) kuuluu muun muassa partiovakuutus, Partio-lehti ja kiinteä alennus partiokauppojen tuotteista (ei partiotuotteet). 
+Vuonna 2021 Suomen Partiolaisten ja lippukuntamme jäsenmaksu oli yhteensä 71,50 euroa. Yhden varsinaisen jäsenen jälkeen samasta perheestä liittyvät alaikäiset jäsenet maksavat alennettua jäsenmaksua. [SP:n jäsenetuihin](http://www.partio.fi/jasenedut) kuuluu muun muassa partiovakuutus, Partio-lehti ja kiinteä alennus partiokauppojen tuotteista (ei partiotuotteet). 
 
 Retket, vaellukset ja muut perustapahtumat maksavat tyypillisesti n. 0–30&nbsp;€, mutta muutaman vuoden välein järjestettävissä tuhansien ihmisten suurleireissä osallistumismaksu nousee 100–200&nbsp;€ tietämille.
 
-Lähtökohtana kuitenkin on, että jokaisella on halutessaan varaa olla mukana toiminnassa, joten osallistumismaksuihin voi hakea alennuksia taloudellisin perustein. Partioharrastuksen tukemiseksi on perustettu myös rahastoja, jotka myöntävät stipendejä varusteiden hankintaan ja osallistumismaksujen kattamiseen, näistä esimerkkinä [Lasten Päivän Säätiön partiostipendit](http://toiminta.partio.fi/lasten-paivan-saation-stipendihakemus) ja [Pääkaupunkiseudun partiolaisten stipendirahasto](http://purkki.partio.fi/piiri-palvelee/ansiomerkit-ja-avustukset/stipendit).
+Lähtökohtana kuitenkin on, että jokaisella on halutessaan varaa olla mukana toiminnassa, joten osallistumismaksuista voi hakea vapautusta taloudellisin perustein lippukunnalta ja Suomen Partiolaisilta. Ohjeet jäsenmaksuvapatuksen hakemiseen löytyvät [täältä](https://www.partio.fi/partiolaiselle/jasenpalvelut/jasenmaksut-ja-laskutus/#jasenmaksuvapautus1) Lippukunnalta maksuvapatusta haetaan rahastonhoitajalle lähetettävällä vapaamuotoisella hakemuksella: [rahastonhoitaja@eraleijonat.fi](rahastonhoitaja@eraleijonat.fi)
+
+Partioharrastuksen tukemiseksi on perustettu myös rahastoja, jotka myöntävät stipendejä varusteiden hankintaan ja osallistumismaksujen kattamiseen, näistä esimerkkinä [Lasten Päivän Säätiön partiostipendit](http://toiminta.partio.fi/lasten-paivan-saation-stipendihakemus) ja [Pääkaupunkiseudun partiolaisten stipendirahasto](http://purkki.partio.fi/piiri-palvelee/ansiomerkit-ja-avustukset/stipendit).
 
 Tapahtumien osallistumismaksut koskevat myös johtajia, joten jopa 15&nbsp;000 hengen suurleiristä vapaaehtoisesti vastaava leirinjohtaja maksaa osallistumisestaan aivan muiden leiriläisten tavoin.
 
-Laadukkaat retkeilyvarusteet ovat usein uusina ostettuna hintavia, mutta niitä voi onneksi myös lainata kavereilta ja sukulaisilta tai hankkia käytettynä. Käytetyt varusteet kiertävät esimerkiksi [Facebookin partiokirpputorilla](https://www.facebook.com/groups/135042363304382/). 
+Laadukkaat retkeilyvarusteet ovat usein uusina ostettuna hintavia, mutta niitä voi onneksi myös lainata lippukunnalta, kavereilta ja sukulaisilta tai hankkia käytettynä. Käytetyt varusteet kiertävät esimerkiksi [Facebookin partiokirpputorilla](https://www.facebook.com/groups/135042363304382/).
