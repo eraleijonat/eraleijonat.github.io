@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "wintersmith": "^2.5.0",
+    "wintersmith-contents": "^1.0.0",
+    "wintersmith-sitemap": "^1.0.0"
+  },
+  "scripts": {
+    "preview": "wintersmith preview -p",
+    "build": "wintersmith build"
+  }
+}
