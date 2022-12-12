@@ -5,8 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: contents/johtajille.md
-  label: johtajille
+  path: contents
+  label: contents
   create: all
   match: "**/*"
 upload_dir: uploads
