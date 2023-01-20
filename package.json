@@ -1,0 +1,27 @@
+{
+  "name": "eraleijonat.github.io",
+  "version": "1.0.0",
+  "description": "Staattiset sivut -> ei tarvetta webhotellille tai julkaisujärjestelmän päivityksille. Minimaalinen, nollasta kyhätty suhteellisen responsiivinen design. Mukana ei ole ainuttakaan JS-kirjastoa. :)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeikkoAJ/eraleijonat.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeikkoAJ/eraleijonat.github.io/issues"
+  },
+  "homepage": "https://github.com/VeikkoAJ/eraleijonat.github.io#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.0.6",
+    "tinacms": "^1.1.3"
+  }
+}
