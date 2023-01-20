@@ -1,0 +1,12 @@
+backend:
+  repo: VeikkoAJ/eraleijonat.github.io
+  branch: master
+  name: github
+  api_root: https://api.github.com
+  site_domain: https://veikkoaj.github.io/eraleijonat.github.io/
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+  cms_label_prefix: netlify-cms/
+
+# This line should *not* be indented
+publish_mode: editorial_workflow
