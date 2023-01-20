@@ -11,3 +11,6 @@ backend:
 media_folder: "docs/public/"
 public_folder: "docs/public/"
 publish_mode: editorial_workflow
+collections:
+  - name: posts
+    identifier_field: name
