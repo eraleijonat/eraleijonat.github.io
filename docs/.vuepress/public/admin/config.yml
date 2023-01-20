@@ -8,5 +8,6 @@ backend:
   auth_endpoint: auth
   cms_label_prefix: netlify-cms/
 
-# This line should *not* be indented
+media_folder: "docs/public/"
+public_folder: "docs/public/"
 publish_mode: editorial_workflow
