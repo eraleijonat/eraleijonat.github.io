@@ -3,7 +3,7 @@ backend:
   branch: master
   name: git-gateway
   api_root: https://api.github.com
-  site_domain: https://veikkoaj.github.io/eraleijonat.github.io/
+  site_domain: iridescent-sfogliatella-7c9ed3.netlify.app
   base_url: https://api.netlify.com
   auth_endpoint: auth
   cms_label_prefix: netlify-cms/
