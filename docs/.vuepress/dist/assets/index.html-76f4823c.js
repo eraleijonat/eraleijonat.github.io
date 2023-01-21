@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"Eraleijonat","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1674249537000,"contributors":[{"name":"Veikko Jääskeläinen","email":"veikko.jaaskelainen@measurlabs.com","commits":1}]},"filePathRelative":"README.md"}');export{e as data};
