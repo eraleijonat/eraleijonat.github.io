@@ -8,7 +8,7 @@ template: index.jade
 ### Johtajisto
 
 Partion aloittamista koskevissa asioissa voit lähettää sähköpostia jäsenrekisterinhoitajalle osoitteeseen <a style="white-space: nowrap" href="mailto:maija.ovaska@partio.fi">maija.ovaska@partio.fi</a>.<br> 
-Yleisissä yhteydenotoissa sähköpostia voit lähettää lippukunnanjohtajalle osoitteeseen <a style="white-space: nowrap" href="mailto:veikko@eraleijonat.fi">veikko@eraleijonat.fi</a>.<br>
+Yleisissä yhteydenotoissa sähköpostia voit lähettää lippukunnanjohtajalle osoitteeseen <a style="white-space: nowrap" href="mailto:aino.tornivaara@eraleijonat.fi">aino.tornivaara@eraleijonat.fi</a>.<br>
 Ryhmänjohtajien yhteystiedot annetaan vanhemmille ryhmään liittymisen yhteydessä.
 
 Pyrimme vastaamaan yhteydenottoihin ripeästi. Muista kuitenkin, että partio on vapaaehtoisten vapaa-ajallaan hoitamaa harrastustoimintaa, joten emme ole tavoitettavissa aivan 24/7.
